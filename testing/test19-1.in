@@ -1,0 +1,8 @@
+#* java -ea ataxx.Main
+# Sanity check acceptance test using staff-ataxx.
+dump
+block b3
+dump
+g1-g2
+dump
+quit
